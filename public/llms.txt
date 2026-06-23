@@ -1,0 +1,105 @@
+# מחזיקי מפתחות עבודת יד טומי ועמית — Generative Engine Optimization Map
+
+> A handmade keychain creator who crafts unique, artisan keychains by hand. The brand centers around handcrafted quality, personal creativity, and artisanal craftsmanship, offering one-of-a-kind accessories with a personal touch.
+
+---
+
+## Pages
+
+### בית
+https://-e76fd268.zappy5.app
+מחפשים אביזר מיוחד עם נשמה? מחזיקי מפתחות בעבודת יד, מלאי אופי וקסם אישי, נוצרו בדיוק בשבילכם. היכנסו עכשיו לגלריה והתאהבו בכל פריט.
+
+### אודות
+https://-e76fd268.zappy5.app/about
+טומי ועמית מזמינים אתכם להציץ אל מאחורי הקלעים של האומנות. גלו את התשוקה, היצירתיות והאהבה לפרטים הקטנים שהופכים כל פריט לאישי ובלתי נשכח.
+
+### גלריה
+https://-e76fd268.zappy5.app/gallery
+מחפשים השראה? הגלריה שלנו מציגה מבחר מהפנט של מחזיקי מפתחות בעבודת יד, כל אחד סיפור בפני עצמו. איזה מהם ידבר אליכם? בואו לגלות עכשיו.
+
+### צור קשר
+https://-e76fd268.zappy5.app/contact
+יש לכם רעיון מיוחד ללב? צרו קשר עם טומי ועמית והפכו את החלום למחזיק מפתחות אישי. אנחנו כאן כדי להקשיב, להתרגש וליצור במיוחד עבורכם.
+
+### Products
+https://-e76fd268.zappy5.app/products
+המוצרים שלנו - מחזיקי מפתחות עבודת יד טומי ועמית
+
+### Cart
+https://-e76fd268.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-e76fd268.zappy5.app/checkout
+תשלום
+
+### Login
+https://-e76fd268.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-e76fd268.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-e76fd268.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-e76fd268.zappy5.app/product/:slug
+פרטי המוצר - מחזיקי מפתחות עבודת יד טומי ועמית
+
+### Category
+https://-e76fd268.zappy5.app/category/:slug
+מוצרים - מחזיקי מפתחות עבודת יד טומי ועמית
+
+### תודה רבה - הפנייה התקבלה
+https://-e76fd268.zappy5.app/thank-you
+תודה רבה על פנייתך! קיבלנו את ההודעה ואנו משתדלים לתת מענה מהיר לכולם. נחזור אליך בהקדם עם כל הפרטים.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-e76fd268.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-e76fd268.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-e76fd268.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מחזיקי מפתחות עבודת יד טומי ועמית
+A handmade keychain creator who crafts unique, artisan keychains by hand. The brand centers around handcrafted quality, personal creativity, and artisanal craftsmanship, offering one-of-a-kind accessories with a personal touch.
+
+## Services/Products
+- מחזיקי מפתחות עבודת יד
+
+## Target Audience
+- כולם
+
+## Industry
+Handmade Crafts
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-e76fd268.zappy5.app/sitemap.xml
+- Robots: https://-e76fd268.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-e76fd268.zappy5.app/llms-full.txt
+- Products (JSON): https://-e76fd268.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-e76fd268.zappy5.app/product-feed.xml
